@@ -19,7 +19,7 @@ const aceId = 4
 
 let cards =[]
 
-const cardBackImgPath ='card-back-blue.jpg'
+const cardBackImgPath ='card-back-Blue.jpg'
 
 const cardContainerElem = document.querySelector('.card-container')
 
